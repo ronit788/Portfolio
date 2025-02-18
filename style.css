@@ -337,4 +337,18 @@ ul li a:hover{
     }
 
 }
+@media (max-width:700px){
+    .main img {
+      width: 200px; 
+      height: 200px; 
+    }
+   }
+
+@media screen and (max-width: 580px) {
+    .serviceCard {
+      margin-left:21px;
+      margin-right: 12px;
+    }
+}
+
 
