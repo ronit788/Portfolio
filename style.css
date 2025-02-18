@@ -319,7 +319,8 @@ ul li a:hover{
     .aboutText{
         margin-left:22px;
         margin-right: 22px;
-        width:200px;
+        width: 100%;
+        height: auto;
 
     }
     .aboutText img{
